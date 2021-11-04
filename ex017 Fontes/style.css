@@ -1,0 +1,6 @@
+@charset "UTF-8";
+body {
+    /* short hand 
+    font: font-style -> font-weight -> font-size -> font-faily */
+    font: italic normal 1em arial;
+}
